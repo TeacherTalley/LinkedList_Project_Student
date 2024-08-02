@@ -74,7 +74,7 @@ Your output file will be verified via GitHub Classroom Actions using different m
 | Verify use of std::list for creation of list   |                                                                     | 10     |
 | Verify use of std::list for adding to list     |                                                                     | 10     |
 | Verify use of std::list for removing from list |                                                                     | 10     |
-| Verify comment headers       |                                                                     | 2      |
+| Verify comment headers       |                                                                     | 5      |
 | **Sub total**                                      |                                                                     | 35     |
 | **Total Points**                                  |                                                                     | 100    |
 
