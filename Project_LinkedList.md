@@ -52,8 +52,8 @@ Adding new movies...
 Movie Decadence and Downfall: The Shah of Iran's Ultimate Party cannot be added to the list.
 Movie Lola cannot be added to the list.
 Removing movies...
-Movie Zero Day cannot be removed from list.
-Movie Sennentuntschi cannot be removed from list.
+Movie Zero Day cannot be removed from the list.
+Movie Sennentuntschi cannot be removed from the list.
 New movie list ready!
 ```
 
@@ -61,23 +61,15 @@ Your output file will be verified via GitHub Classroom Actions using different m
 
 #### Rubric
 
-| Name                                           | Description                                                         | Points |
-| ---------------------------------------------- | ------------------------------------------------------------------- | ------: |
-| **AutoGrading Rubric**                             |                                                                     |        |
-| AutoTest Setup                                 | Install test code, copy student source, build student and test code | 0      |
-| Coding Style                                   | Run cpplint on student code                                         | 5      |
-| Error: Test for missing input files            | Compare final output                                                | 10     |
-| Main Output                                    | Run student main and compare output to test                         | 20     |
-| Final Movies List                              | Compare final movie list to expected output                         | 30     |
-| **Sub total**                                    |                                                                     | 65     |
-| **Manual Grading Rubric**                          |                                                                     |        |
-| Verify use of std::list for creation of list   |                                                                     | 10     |
-| Verify use of std::list for adding to list     |                                                                     | 10     |
-| Verify use of std::list for removing from list |                                                                     | 10     |
-| Verify comment headers       |                                                                     | 5      |
-| **Sub total**                                      |                                                                     | 35     |
-| **Total Points**                                  |                                                                     | 100    |
-
+| Name                                | Description                                                         | Points |
+| ----------------------------------- | ------------------------------------------------------------------- | ------ |
+| Coding Style                        | Run cpplint on student code                                         | 10     |
+| Error: Test for missing input files | Compare final output                                                | 10     |
+| Main Output                         | Run student main and compare output to test                         | 20     |
+| Final Movies List                   | Compare final movie list to expected output                         | 20     |
+| Test Adds                           | Test adding movies to list                                          | 20     |
+| Test Deletes                        | Test deleting movies from list                                      | 20     |
+| Total Points                        |                                                                     | 100    |
 #### Due Dates and Honor
 The due date is specified on Blackboard. 
 
