@@ -13,7 +13,7 @@
     {
       "name": "Coding Style",
       "setup": "",
-      "run": "./LinkedList_Project_AutoTest/AutoTest_Style.sh",
+      "run": "./LinkedList_Project_AutoTest/AutoTest_Style.sh LinkedList_Project_AutoTest main.cpp",
       "input": "",
       "output": "",
       "comparison": "exact",
